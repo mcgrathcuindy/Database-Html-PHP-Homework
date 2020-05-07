@@ -1,0 +1,10 @@
+07:49, 20th February 2020	1 Databse Systems 	1 C++ Programming	1 Operating Systems	$385	1400 E Hanna Ave
+07:53, 20th February 2020	2 Databse Systems 	1 C++ Programming	3 Operating Systems	$847	Euclid Ave, Cleveland, OH
+07:54, 20th February 2020	1 Databse Systems 	3 C++ Programming	2 Operating Systems	$726	E Flamingo Rd, Sparks, NV
+08:06, 20th February 2020	1 Databse Systems 	1 C++ Programming	1 Operating Systems	$385	1400 E Hanna Ave
+08:08, 20th February 2020	0 Databse Systems 	0 C++ Programming	0 Operating Systems	$0	
+08:09, 20th February 2020	0 Databse Systems 	0 C++ Programming	0 Operating Systems	$0	
+08:09, 20th February 2020	1 Databse Systems 	1 C++ Programming	1 Operating Systems	$385	2533 Governors Point Ave
+11:06, 21st February 2020	1 Databse Systems 	1 C++ Programming	1 Operating Systems	$385	1400 E Hanna Ave
+11:12, 21st February 2020	1 Databse Systems 	2 C++ Programming	1 Operating Systems	$473	1400 E Hanna Ave
+07:00, 27th March 2020	1 Databse Systems 	1 C++ Programming	1 Operating Systems	$385	2533 Governors Point Ave

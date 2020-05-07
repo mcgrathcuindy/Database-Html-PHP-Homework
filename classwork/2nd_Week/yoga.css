@@ -1,0 +1,54 @@
+body { background-color: #3F2860;
+font-family: Verdana, Arial, sans-serif;
+}
+#wrapper { margin-left: auto;
+margin-right: auto;
+width: 80%;
+min-width: 420px;
+max-width: 1280px;
+background-color: #F5F5F5;
+
+color: #3F2860;
+}
+header { background-color: #9BC1C2;
+background-image: url(lilyheader.jpg);
+background-position: right;
+background-repeat: no-repeat;
+height: 150px;}
+
+li { font-size: 90%; }
+h1 { padding-top: 50px;
+padding-left: 2em;
+}
+nav { text-align: center;
+font-weight: bold;
+background-color: #DBE8E9;
+padding: 1em;
+}
+nav a { text-decoration: none; }
+main { padding: 0 3em 3em;
+display: block;
+}
+#mathero { background-image: url(yogamat.jpg);
+background-size: 100% 100%;
+height: 300px;
+
+background-repeat: no-repeat;
+
+}
+#loungehero { background-image: url(yogalounge.jpg);
+background-size: 100% 100%;
+height: 300px;
+
+background-repeat: no-repeat;
+
+}
+img { padding: 2em; }
+footer { background-color: #9BC1C2;
+font-size: small;
+
+text-align: center;
+font-style: italic;
+padding: 1em;
+
+}
